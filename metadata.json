@@ -1,0 +1,8 @@
+
+{
+  "name": "Malaga Beach Flying (MBF)",
+  "description": "Premium Paramotor Training & Experience in Malaga. A high-end, safe, and personalized flying school focusing on excellence and trust.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
